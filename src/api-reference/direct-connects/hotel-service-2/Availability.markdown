@@ -314,7 +314,6 @@ For a description of the relationship between the `RoomID` and `RatePlanID` refe
 |Name|Type|Description|
 |-----------------|-----------|-------------|
 |`GuaranteeType`|`string`|**Required** The guarantee information to hold a reservation.|
-|`Deadline`|`complex`|Guarantee deadline, absolute or relative.|
 
 #### <a name="supported-guarantee-types"></a>Supported GuaranteeTypes
 
